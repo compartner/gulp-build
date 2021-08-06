@@ -1,5 +1,5 @@
 {
-  "name": "compartner/gulp-build",
+  "name": "@compartner/gulp-build",
   "version": "0.0.1",
   "description": "Build tasks and example config for gulpfile",
   "repository": {
