@@ -1,6 +1,6 @@
 {
   "name": "@compartner/gulp-build",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Build tasks and example config for gulpfile",
   "main": "index.js",
   "scripts": {
