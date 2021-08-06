@@ -1,28 +1,25 @@
 {
   "name": "@compartner/gulp-build",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Build tasks and example config for gulpfile",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
   "repository": {
     "type": "git",
-    "url": "https://github.com/compartner/gulp-build.git"
-  },
-  "engines": {
-    "node": ">= 0.8"
+    "url": "git+https://github.com/compartner/gulp-build.git"
   },
   "keywords": [
-    "gulp",
-    "build",
-    "task",
-    "config"
+    "Gulp",
+    "Build",
+    "Tasks",
+    "Config"
   ],
-  "dependencies": {
+  "author": "CP//COMPARTNER",
+  "license": "GPL-2.0-or-later",
+  "bugs": {
+    "url": "https://github.com/compartner/gulp-build/issues"
   },
-  "devDependencies": {
-  },
-  "author": {
-    "name": "CP//COMPARTNER",
-    "email": "npm@cp-compartner.de",
-    "url": "https://www.cp-compartner.de/"
-  },
-  "license": "GPL-2.0-or-later"
+  "homepage": "https://github.com/compartner/gulp-build#readme"
 }
